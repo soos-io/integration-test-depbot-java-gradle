@@ -1,5 +1,5 @@
 plugins {
-    id 'com.pa.deptest'
+    id 'com.pa.deptest.gradle'
 }
 
 android {
